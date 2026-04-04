@@ -1,8 +1,8 @@
-# AZƏRBAYCAN NMAP V1
+# 🇦🇿 AZƏRBAYCAN NMAP V1
 
-Bu tool Termux-da asan şəkildə nmap skan etmək üçün hazırlanmışdır.
+Termux üçün sadə və sürətli Nmap skripti.
 
-### Termux-da quraşdırma və işə salma (birbaşa kopyalayın):
+### 🚀 Birbaşa quraşdırma (kopyalayın və Termux-da yapışdırın):
 
 ```bash
 rm -rf linuxsquad
