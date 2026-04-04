@@ -1,0 +1,2 @@
+# linuxsquad
+nmap 
