@@ -23,4 +23,5 @@ cd linuxsquad
 bash main.sh
 
 
+![31387](https://github.com/user-attachments/assets/b9e42fc4-989f-49f4-86d7-d3cde70fcd49)
 
