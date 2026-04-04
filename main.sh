@@ -1,0 +1,23 @@
+
+#!/bin/bash
+
+clear
+echo "█████╗ ███████╗███████╗"
+echo "██╔══██╗╚══███╔╝██╔════╝"
+echo "███████║  ███╔╝ █████╗  "
+echo "██╔══██║ ███╔╝  ██╔══╝  "
+echo "██║  ██║███████╗███████╗"
+echo "╚═╝  ╚═╝╚══════╝╚══════╝"
+
+echo ""
+echo "Type !HELP"
+
+read cmd
+
+if [ "$cmd" = "!HELP" ]; then
+    echo ""
+    echo "nmap <ip>"
+    echo "nmap -sV <ip>"
+    echo "nmap -A <ip>"
+    echo "ping <site>"
+fi
