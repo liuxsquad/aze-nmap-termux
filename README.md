@@ -1,5 +1,6 @@
-### ⚠️ XƏBƏRDARLIQ
-Bu tool yalnız təhsil və qanuni məqsədlər üçün hazırlanmışdır.
+[!WARNING]
+⚠️ XƏBƏRDARLIQ
+Bu tool yalnız təhsil və qanuni məqsədlər üçün nəzərdə tutulmuşdur.
 Kötü istifadə, qanunsuz fəaliyyət və ya hər hansı zərər verən əməllərdən biz məsuliyyət daşımırıq.
 Lütfən, qanunlara və etik qaydalara riayət edin.
 
