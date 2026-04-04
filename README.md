@@ -1,10 +1,11 @@
 
 
 # 🇦🇿 AZƏRBAYCAN NMAP V1
-### ⚠️ XƏBƏRDARLIQ
-Bu tool yalnız təhsil və qanuni məqsədlər üçün nəzərdə tutulmuşdur.
-Kötü istifadə, qanunsuz fəaliyyət və ya hər hansı zərər verən əməllərdən biz məsuliyyət daşımırıq.
-Lütfən, qanunlara və etik qaydalara riayət edin.
+
+> **⚠️ XƏBƏRDARLIQ**  
+> Bu tool yalnız təhsil və qanuni məqsədlər üçün nəzərdə tutulmuşdur.  
+> Kötü və qanunsuz istifadədən **biz məsuliyyət daşımırıq**.  
+> Qanunlara riayət edin.
 --------------------------------
 Termux üçün sadə və sürətli Nmap skripti.
 
